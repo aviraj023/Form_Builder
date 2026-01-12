@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+input,
+select,
+button {
+    padding: 6px;
+    margin: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+pre {
+    background-color: black;
+    color: aliceblue;
+    overflow-x: auto;
+    padding: 15px;
+    border-radius: 6px;
+}
